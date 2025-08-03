@@ -1,0 +1,9 @@
+[
+  {
+    "name": "Home",
+    "link": "/",
+    "icon": "BiSolidHome",
+    "allowedRoles": ["admin"],
+    "subcomponents": []
+  }
+]
