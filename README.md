@@ -30,10 +30,13 @@ Next-auth 4.24
 
 ## Icon library:
 react-icons
+
 (suggestion: use Icon component from /components/Icon)
+
 react-spinners
 
 
 ## Table:
 react-data-table-component
+
 (suggestion: use Table component from /components/Table)
